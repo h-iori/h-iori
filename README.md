@@ -1,7 +1,3 @@
-# 💫 About Me:
-Check Out My Portfolio:- https://upadhyay-harsh-portfolio.vercel.app/ <br>🔭 I’m currently working on :<br>Ecommerce Project<br>👯 I’m looking to collaborate on :<br> Projects related to python<br>🌱 I’m currently learning : <br>Python and DSA<br>💬 Ask me about :<br>Python programming and any general software development questions.<br>
-
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
 # 📊 GitHub Stats:
